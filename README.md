@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Aayushi! 👋
+<hr>
 
 An aspiring ✨ Computer Science ✨ engineering student from SRM University , skilled in website development, documentation and other related activities
 across the complete development life cycle of a product. Adept at the end to end website design & development including requirement gathering, 
