@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 An aspiring ✨ Computer Science ✨ engineering student from SRM University , skilled in website development, documentation and other related activities
 across the complete development life cycle of a product. Adept at the end to end website design & development including requirement gathering, 
 documentation, infrastructure setup, coding, handle complex project management & coordinate work very efficiently to deliver results.
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects based on machine learning and web development.
 - 🌱 I’m currently learning ReactJS , NodeJS and Machine Learning.
 - 😄 Pronouns: She/Her
--->
 
 ## ✉️ Find me on:
 
