@@ -7,7 +7,7 @@ documentation, infrastructure setup, coding, handle complex project management &
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects based on machine learning and web development.
-- 🌱 I’m currently learning ReactJS , NodeJS and Machine Learning.
+- 🌱 I’m currently learning ReactJS , NodeJS,Data Analytics and Machine Learning.
 - 😄 Pronouns: She/Her
 
 ## ✉️ Find me on:
